@@ -1,0 +1,2 @@
+# leetcode-sql-50
+
