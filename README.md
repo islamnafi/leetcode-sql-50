@@ -7,7 +7,7 @@ This repository contains solutions to all **50 SQL problems** from the [LeetCode
 A companion YouTube playlist is available where each problem is solved **step by step** with detailed explanations:
 
 <a href="https://youtube.com/playlist?list=PLTLzoZr6asyXVECFwvSLkgIt-WA8UKqnA&feature=shared">
-  <img src="https://img.shields.io/badge/View%20on%20YouTube-blue?style=for-the-badge" alt="button"/>
+  <img src="https://img.shields.io/badge/View%20on%20YouTube-FF0000?style=for-the-badge" alt="button"/>
 </a>
 
 ## Repository Structure
